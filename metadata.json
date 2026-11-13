@@ -1,0 +1,6 @@
+{
+  "name": "FreshCart Customer Intelligence",
+  "description": "Executive customer analytics dashboard uncovering churn drivers, city performance, category economics, and retention opportunities across FreshCart's 500-customer dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

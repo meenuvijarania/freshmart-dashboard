@@ -1,0 +1,502 @@
+??  FreshCart — Customer Dataset  |  Sample: 500 Records,,,,,,,,,,,
+Customer_ID,City,Age_Group,Gender,Total_Orders,Avg_Order_Value_(INR),Days_Since_Last_Order,Delivery_Rating,Product_Category_Preference,App_Sessions_Last_30_Days,Promo_Used,Churned
+FC00001,Delhi,36-45,Male,9,1014.4,80,2.4,Beverages,0,No,1
+FC00002,Bengaluru,60+,Female,2,1754.4,31,4,Fresh Produce,18,Yes,0
+FC00003,Pune,46-60,Female,1,1188.4,12,3.2,Fresh Produce,8,No,0
+FC00004,Mumbai,26-35,Female,18,658.4,42,3.7,Fresh Produce,4,No,0
+FC00005,Pune,46-60,Male,12,1035.8,26,4.7,Beverages,17,No,0
+FC00006,Mumbai,46-60,Male,3,492.7,71,2.1,Packaged,5,Yes,1
+FC00007,Hyderabad,46-60,Male,12,406,6,4.9,Fresh Produce,22,Yes,0
+FC00008,Pune,26-35,Male,1,1431.4,14,3.9,Fresh Produce,15,No,0
+FC00009,Ahmedabad,26-35,Female,7,1400.9,20,3.8,Beverages,5,Yes,0
+FC00010,Delhi,36-45,Male,9,1616,19,4.4,Packaged,12,Yes,0
+FC00011,Bengaluru,36-45,Male,15,1530.6,11,4.9,Packaged,5,No,0
+FC00012,Mumbai,36-45,Female,10,547.8,33,4.7,Dairy,21,No,0
+FC00013,Mumbai,46-60,Male,2,1676.6,41,4,Dairy,9,Yes,0
+FC00014,Delhi,36-45,Female,11,1328,1,3.8,Beverages,9,Yes,0
+FC00015,Chennai,18-25,Female,15,1083.9,29,4.2,Fresh Produce,18,No,0
+FC00016,Hyderabad,26-35,Male,11,982.4,3,4.5,Packaged,11,No,0
+FC00017,Bengaluru,26-35,Female,13,1157.1,67,3,Beverages,2,No,1
+FC00018,Ahmedabad,26-35,Female,5,1268.2,4,3.6,Packaged,6,No,0
+FC00019,Kolkata,26-35,Male,5,536.6,85,1.4,Fresh Produce,0,No,1
+FC00020,Bengaluru,36-45,Male,12,227.8,7,4.1,Dairy,19,Yes,0
+FC00021,Delhi,26-35,Male,8,1425.6,62,2.7,Dairy,2,Yes,1
+FC00022,Hyderabad,46-60,Female,14,1163.2,23,4.3,Packaged,19,No,0
+FC00023,Mumbai,46-60,Male,12,757,40,4.8,Fresh Produce,16,No,0
+FC00024,Mumbai,26-35,Male,11,826.8,10,3.6,Dairy,13,No,0
+FC00025,Bengaluru,26-35,Female,13,1298.1,30,3.7,Fresh Produce,6,No,0
+FC00026,Chennai,26-35,Female,5,1128,104,2.1,Fresh Produce,0,No,1
+FC00027,Bengaluru,46-60,Male,4,1173.7,29,3.7,Fresh Produce,20,Yes,0
+FC00028,Delhi,36-45,Male,14,1060.1,44,3.3,Packaged,6,Yes,0
+FC00029,Pune,36-45,Male,15,907.1,3,4.7,Packaged,7,Yes,0
+FC00030,Mumbai,36-45,Male,10,1431.6,80,1.6,Dairy,1,No,1
+FC00031,Bengaluru,26-35,Male,2,1059.4,68,2.2,Fresh Produce,0,Yes,1
+FC00032,Mumbai,26-35,Female,15,1308.6,34,3.9,Fresh Produce,22,Yes,0
+FC00033,Delhi,18-25,Female,4,823.4,6,4.9,Packaged,14,No,0
+FC00034,Bengaluru,18-25,Female,3,1542.2,8,4.1,Fresh Produce,10,No,0
+FC00035,Chennai,36-45,Female,2,811.3,28,4.5,Packaged,12,No,0
+FC00036,Delhi,36-45,Female,10,650.8,2,4.3,Beverages,17,Yes,0
+FC00037,Bengaluru,46-60,Female,8,248.6,54,1.6,Fresh Produce,4,No,1
+FC00038,Kolkata,36-45,Female,13,971.5,22,3.6,Fresh Produce,14,No,0
+FC00039,Mumbai,46-60,Male,6,1283.3,3,4.9,Dairy,22,No,0
+FC00040,Chennai,26-35,Male,12,700.4,29,3.1,Beverages,18,No,0
+FC00041,Mumbai,26-35,Male,1,1407.2,108,1.8,Beverages,1,No,1
+FC00042,Delhi,60+,Male,7,1787.6,12,4.5,Dairy,9,No,0
+FC00043,Ahmedabad,36-45,Male,9,724.7,7,4,Fresh Produce,14,Yes,0
+FC00044,Delhi,26-35,Female,15,468,26,3,Fresh Produce,13,No,0
+FC00045,Hyderabad,36-45,Female,14,1759.3,41,4.2,Fresh Produce,4,Yes,0
+FC00046,Chennai,60+,Female,1,733.5,118,2,Packaged,5,Yes,1
+FC00047,Delhi,36-45,Female,18,1027.9,66,1.8,Packaged,3,No,1
+FC00048,Mumbai,60+,Female,10,322.4,119,2,Fresh Produce,3,No,1
+FC00049,Bengaluru,26-35,Male,4,1489.8,11,3.9,Dairy,11,No,0
+FC00050,Mumbai,18-25,Female,16,1582.2,99,2.9,Beverages,2,No,1
+FC00051,Hyderabad,36-45,Female,15,979.7,19,4.7,Packaged,16,No,0
+FC00052,Mumbai,26-35,Female,15,897.2,64,2.7,Packaged,2,No,1
+FC00053,Kolkata,36-45,Male,5,1662.5,14,3.2,Packaged,12,No,0
+FC00054,Mumbai,46-60,Male,9,761.1,22,4.4,Fresh Produce,18,No,0
+FC00055,Chennai,46-60,Male,8,1610.7,19,4.9,Fresh Produce,13,Yes,0
+FC00056,Chennai,26-35,Male,5,451.5,95,2.4,Fresh Produce,2,Yes,1
+FC00057,Delhi,26-35,Female,17,1397.8,26,4.2,Fresh Produce,19,Yes,0
+FC00058,Delhi,26-35,Female,12,817.2,42,4.7,Fresh Produce,9,Yes,0
+FC00059,Bengaluru,26-35,Female,8,708.7,81,2.7,Fresh Produce,4,No,1
+FC00060,Chennai,26-35,Male,1,1547.2,34,4.5,Beverages,11,Yes,0
+FC00061,Mumbai,36-45,Female,9,1094.2,35,4.9,Dairy,6,Yes,0
+FC00062,Chennai,26-35,Male,8,580.8,12,5,Packaged,5,Yes,0
+FC00063,Delhi,36-45,Female,5,1045.6,75,2.3,Beverages,1,No,1
+FC00064,Bengaluru,36-45,Female,3,530.4,56,1.4,Fresh Produce,3,No,1
+FC00065,Delhi,26-35,Female,4,1357.6,42,4.2,Dairy,10,No,0
+FC00066,Hyderabad,60+,Male,9,998.3,110,2.1,Dairy,3,No,1
+FC00067,Delhi,46-60,Male,18,1014.8,8,4,Fresh Produce,9,Yes,0
+FC00068,Ahmedabad,26-35,Male,14,1283.3,102,2.4,Fresh Produce,2,No,1
+FC00069,Delhi,46-60,Female,17,702.5,31,4.4,Fresh Produce,7,No,0
+FC00070,Delhi,36-45,Male,13,1461.6,40,3.7,Fresh Produce,9,Yes,0
+FC00071,Bengaluru,36-45,Male,8,1693.9,20,3.3,Packaged,15,Yes,0
+FC00072,Delhi,36-45,Male,13,1425.1,97,3.1,Dairy,0,No,1
+FC00073,Kolkata,60+,Female,7,549.6,19,3,Fresh Produce,15,Yes,0
+FC00074,Bengaluru,36-45,Female,17,915.4,5,3.3,Packaged,11,No,0
+FC00075,Ahmedabad,36-45,Female,13,1306.7,32,3.6,Beverages,11,No,0
+FC00076,Delhi,18-25,Female,12,912.2,106,2.9,Fresh Produce,1,Yes,1
+FC00077,Ahmedabad,36-45,Female,10,1127.1,29,3.7,Beverages,11,Yes,0
+FC00078,Hyderabad,36-45,Female,5,1439.9,86,3,Packaged,2,No,1
+FC00079,Pune,26-35,Male,11,534.4,17,4.2,Dairy,12,No,0
+FC00080,Mumbai,36-45,Male,2,1534,111,1,Packaged,2,No,1
+FC00081,Mumbai,36-45,Female,16,666.6,5,4.1,Packaged,6,No,0
+FC00082,Kolkata,36-45,Female,3,1126.8,42,4.5,Packaged,10,No,0
+FC00083,Bengaluru,26-35,Male,5,1247.7,119,2,Beverages,2,No,1
+FC00084,Hyderabad,60+,Female,10,230,2,3.5,Dairy,4,Yes,0
+FC00085,Delhi,26-35,Female,15,1252.7,119,3,Fresh Produce,2,No,1
+FC00086,Chennai,26-35,Male,4,261.4,3,4.1,Fresh Produce,8,No,0
+FC00087,Delhi,26-35,Male,10,478,15,4.5,Fresh Produce,10,Yes,0
+FC00088,Pune,60+,Male,1,921.4,14,3.1,Beverages,16,Yes,0
+FC00089,Delhi,46-60,Female,6,1020.6,34,3.3,Fresh Produce,7,Yes,0
+FC00090,Ahmedabad,36-45,Male,14,521.8,33,4,Beverages,15,Yes,0
+FC00091,Ahmedabad,18-25,Male,4,780.4,5,4.9,Dairy,17,No,0
+FC00092,Delhi,36-45,Female,16,245,42,3.1,Packaged,14,No,0
+FC00093,Mumbai,18-25,Male,16,1424.4,72,2.5,Fresh Produce,5,No,1
+FC00094,Bengaluru,26-35,Male,5,1392.3,12,4.8,Beverages,15,Yes,0
+FC00095,Mumbai,26-35,Male,9,1202.6,49,1.1,Packaged,2,No,1
+FC00096,Hyderabad,18-25,Male,17,488.2,90,1.2,Dairy,1,No,1
+FC00097,Mumbai,26-35,Female,18,915.9,41,3.6,Beverages,4,Yes,0
+FC00098,Pune,18-25,Female,4,974.9,37,3.3,Dairy,10,Yes,0
+FC00099,Kolkata,18-25,Female,13,666,16,3.5,Packaged,11,No,0
+FC00100,Delhi,36-45,Male,17,1131.9,9,3.8,Dairy,14,No,0
+FC00101,Chennai,60+,Male,13,1218.4,12,3.3,Beverages,4,Yes,0
+FC00102,Kolkata,26-35,Male,16,1575.1,119,2,Dairy,3,Yes,1
+FC00103,Chennai,36-45,Male,17,1679.7,12,3.7,Fresh Produce,12,No,0
+FC00104,Hyderabad,26-35,Male,17,635.3,28,4.9,Beverages,4,Yes,0
+FC00105,Delhi,26-35,Male,10,419.6,29,4.1,Dairy,17,No,0
+FC00106,Ahmedabad,60+,Male,17,527.9,15,3.4,Packaged,4,No,0
+FC00107,Bengaluru,46-60,Female,2,1484.4,15,3.3,Dairy,20,Yes,0
+FC00108,Hyderabad,36-45,Female,5,1074.5,28,3.6,Fresh Produce,10,No,0
+FC00109,Ahmedabad,26-35,Female,16,959.4,84,1.2,Beverages,0,No,1
+FC00110,Hyderabad,26-35,Female,3,313.6,10,4.6,Dairy,19,No,0
+FC00111,Kolkata,60+,Male,14,837.8,90,1.5,Packaged,0,No,1
+FC00112,Mumbai,26-35,Female,5,545.2,81,1,Dairy,2,Yes,1
+FC00113,Delhi,18-25,Female,15,692.1,104,1.2,Dairy,1,No,1
+FC00114,Pune,26-35,Male,13,1544,41,3.9,Beverages,18,Yes,0
+FC00115,Hyderabad,46-60,Male,17,382.8,39,3.5,Fresh Produce,15,No,0
+FC00116,Bengaluru,36-45,Male,4,1587,18,4.3,Fresh Produce,12,Yes,0
+FC00117,Hyderabad,26-35,Male,16,603.5,38,4.3,Fresh Produce,17,Yes,0
+FC00118,Kolkata,36-45,Female,13,1178.5,43,3.1,Packaged,16,Yes,0
+FC00119,Kolkata,36-45,Male,8,789.9,39,4.6,Fresh Produce,17,No,0
+FC00120,Mumbai,36-45,Male,17,278.9,41,4.3,Dairy,17,Yes,0
+FC00121,Chennai,18-25,Female,14,1487,17,4.6,Fresh Produce,15,Yes,0
+FC00122,Ahmedabad,26-35,Male,15,1324.6,11,4.1,Fresh Produce,10,No,0
+FC00123,Chennai,36-45,Female,6,1554.7,22,4.2,Packaged,15,No,0
+FC00124,Kolkata,26-35,Female,3,1230.3,109,1.4,Fresh Produce,5,No,1
+FC00125,Delhi,36-45,Male,12,1412.5,21,3.2,Packaged,4,No,0
+FC00126,Pune,36-45,Female,18,501.1,5,3.2,Packaged,10,No,0
+FC00127,Pune,36-45,Female,11,1061.9,25,4.7,Fresh Produce,7,No,0
+FC00128,Pune,46-60,Female,11,1799.1,3,4.1,Beverages,11,No,0
+FC00129,Delhi,26-35,Female,8,1602.7,14,3,Beverages,8,Yes,0
+FC00130,Mumbai,36-45,Female,18,1797.4,12,4.2,Dairy,20,No,0
+FC00131,Pune,60+,Female,12,1489.4,24,4.8,Packaged,15,No,0
+FC00132,Delhi,26-35,Female,8,1477,7,4.4,Fresh Produce,20,Yes,0
+FC00133,Mumbai,46-60,Male,18,1517.3,80,2.8,Fresh Produce,4,No,1
+FC00134,Bengaluru,36-45,Male,1,1104.7,4,4,Beverages,15,No,0
+FC00135,Mumbai,26-35,Female,9,1716.8,39,3.9,Fresh Produce,19,No,0
+FC00136,Mumbai,26-35,Female,10,742.2,33,3.3,Fresh Produce,17,Yes,0
+FC00137,Hyderabad,26-35,Male,12,1148.2,5,4.1,Packaged,6,No,0
+FC00138,Hyderabad,26-35,Female,6,1540.5,109,1.3,Packaged,5,Yes,1
+FC00139,Ahmedabad,36-45,Female,14,822.4,22,3.2,Dairy,9,Yes,0
+FC00140,Hyderabad,46-60,Male,13,537,42,3.7,Fresh Produce,6,No,0
+FC00141,Bengaluru,18-25,Female,2,1298.7,46,1,Beverages,4,No,1
+FC00142,Delhi,46-60,Female,3,1730,109,2.2,Dairy,1,No,1
+FC00143,Mumbai,36-45,Male,6,1628.5,12,3.3,Dairy,20,No,0
+FC00144,Mumbai,18-25,Female,4,1495.4,83,1.8,Beverages,0,Yes,1
+FC00145,Bengaluru,46-60,Male,11,1701.8,36,4.6,Packaged,16,No,0
+FC00146,Hyderabad,18-25,Male,16,517.6,23,4.8,Fresh Produce,5,No,0
+FC00147,Kolkata,46-60,Female,4,1559.5,87,2.2,Packaged,4,No,1
+FC00148,Bengaluru,46-60,Female,5,927.7,100,2,Fresh Produce,3,Yes,1
+FC00149,Mumbai,18-25,Female,10,1006.2,19,4.1,Packaged,5,Yes,0
+FC00150,Ahmedabad,26-35,Female,18,493.9,52,1.1,Beverages,4,No,1
+FC00151,Bengaluru,26-35,Female,14,1386.9,12,3.7,Packaged,20,No,0
+FC00152,Pune,18-25,Female,11,335.3,72,2.4,Beverages,4,Yes,1
+FC00153,Pune,26-35,Female,1,1648.9,22,5,Beverages,9,No,0
+FC00154,Delhi,46-60,Male,8,1202.4,100,2.3,Fresh Produce,5,No,1
+FC00155,Chennai,26-35,Female,9,866.5,98,1.6,Packaged,3,No,1
+FC00156,Kolkata,26-35,Female,13,286,9,3.1,Packaged,11,Yes,0
+FC00157,Mumbai,46-60,Male,6,1710.7,44,3.6,Dairy,16,Yes,0
+FC00158,Kolkata,26-35,Female,7,1721.3,32,3.3,Dairy,10,No,0
+FC00159,Bengaluru,18-25,Male,6,352.1,5,3.9,Packaged,11,Yes,0
+FC00160,Hyderabad,26-35,Female,17,1431.5,14,3.1,Packaged,14,Yes,0
+FC00161,Mumbai,46-60,Male,15,537,26,3.3,Fresh Produce,16,Yes,0
+FC00162,Mumbai,26-35,Male,15,260,16,3.6,Packaged,20,Yes,0
+FC00163,Chennai,26-35,Male,17,1064.2,11,3.7,Fresh Produce,14,Yes,0
+FC00164,Mumbai,26-35,Male,13,1434.5,15,4.1,Dairy,5,Yes,0
+FC00165,Chennai,46-60,Female,10,1303.3,16,4.2,Packaged,19,Yes,0
+FC00166,Ahmedabad,26-35,Female,18,1609.5,82,2.6,Fresh Produce,5,No,1
+FC00167,Bengaluru,26-35,Male,14,1492.6,30,4.4,Packaged,17,Yes,0
+FC00168,Delhi,26-35,Female,13,885.4,29,4.9,Dairy,18,Yes,0
+FC00169,Delhi,36-45,Male,8,562.8,13,4.8,Dairy,15,Yes,0
+FC00170,Hyderabad,26-35,Female,5,963,29,4.8,Fresh Produce,13,No,0
+FC00171,Pune,26-35,Male,6,1262.2,28,4.9,Fresh Produce,9,Yes,0
+FC00172,Delhi,36-45,Male,5,1233.2,13,3.8,Beverages,8,Yes,0
+FC00173,Pune,18-25,Female,17,1381.8,44,4.6,Fresh Produce,7,Yes,0
+FC00174,Mumbai,46-60,Male,11,1691.9,10,3.6,Beverages,10,Yes,0
+FC00175,Chennai,26-35,Female,11,1331.7,7,3.3,Dairy,21,No,0
+FC00176,Mumbai,18-25,Female,18,1092.7,18,5,Dairy,11,No,0
+FC00177,Mumbai,26-35,Female,13,967,2,4.4,Fresh Produce,22,No,0
+FC00178,Pune,36-45,Male,16,1715.6,22,4.8,Beverages,6,Yes,0
+FC00179,Mumbai,26-35,Male,7,1739.3,6,4.2,Fresh Produce,15,No,0
+FC00180,Mumbai,46-60,Male,9,523.4,112,2.1,Fresh Produce,0,No,1
+FC00181,Mumbai,26-35,Male,14,753.3,43,4.3,Dairy,18,Yes,0
+FC00182,Mumbai,46-60,Female,1,698.3,106,1.9,Fresh Produce,3,No,1
+FC00183,Delhi,26-35,Male,14,863.4,23,4.1,Dairy,12,Yes,0
+FC00184,Delhi,46-60,Female,11,1581.1,2,4.6,Fresh Produce,8,Yes,0
+FC00185,Mumbai,26-35,Male,3,1584.6,47,2.8,Packaged,5,No,1
+FC00186,Chennai,26-35,Female,15,1217,43,4.2,Beverages,7,Yes,0
+FC00187,Mumbai,46-60,Female,3,226.1,15,3.1,Fresh Produce,10,Yes,0
+FC00188,Delhi,36-45,Male,16,1176.6,82,2.5,Fresh Produce,5,No,1
+FC00189,Mumbai,26-35,Male,7,636,37,4.4,Fresh Produce,10,No,0
+FC00190,Mumbai,26-35,Male,6,843.6,19,4,Beverages,17,Yes,0
+FC00191,Bengaluru,46-60,Female,9,664.7,53,2.1,Dairy,0,No,1
+FC00192,Mumbai,46-60,Male,15,239,6,4.2,Packaged,14,No,0
+FC00193,Delhi,36-45,Female,9,1368.9,23,3.7,Fresh Produce,19,Yes,0
+FC00194,Bengaluru,36-45,Female,6,287.5,30,3.6,Fresh Produce,18,No,0
+FC00195,Ahmedabad,26-35,Female,5,444.5,27,4.7,Dairy,4,No,0
+FC00196,Bengaluru,46-60,Male,14,1470.4,12,4.2,Dairy,8,Yes,0
+FC00197,Mumbai,26-35,Male,1,1005.8,116,1.5,Fresh Produce,2,No,1
+FC00198,Hyderabad,26-35,Female,2,778.3,87,2,Fresh Produce,5,Yes,1
+FC00199,Delhi,60+,Female,1,1731.8,22,4.4,Dairy,13,Yes,0
+FC00200,Mumbai,18-25,Male,5,803.9,5,3.9,Packaged,4,Yes,0
+FC00201,Delhi,26-35,Male,11,1221.5,31,4.1,Beverages,12,No,0
+FC00202,Delhi,26-35,Male,8,1338.8,16,4.1,Fresh Produce,19,No,0
+FC00203,Delhi,46-60,Male,11,348.5,39,3.1,Fresh Produce,12,Yes,0
+FC00204,Delhi,46-60,Female,2,968.5,46,1.8,Dairy,2,No,1
+FC00205,Chennai,46-60,Female,11,1175.5,42,4.9,Dairy,10,No,0
+FC00206,Mumbai,36-45,Female,17,666.3,28,3.6,Fresh Produce,4,Yes,0
+FC00207,Delhi,18-25,Female,12,954.6,10,4.3,Dairy,18,No,0
+FC00208,Chennai,46-60,Male,9,532.5,19,4.2,Fresh Produce,9,Yes,0
+FC00209,Mumbai,18-25,Male,5,718.1,36,4.3,Dairy,4,No,0
+FC00210,Bengaluru,26-35,Female,10,731.9,3,3.1,Fresh Produce,20,No,0
+FC00211,Mumbai,18-25,Male,17,478.1,6,4.9,Fresh Produce,15,Yes,0
+FC00212,Bengaluru,46-60,Male,17,877.8,10,4.6,Dairy,21,No,0
+FC00213,Bengaluru,18-25,Female,8,309.3,2,4.3,Fresh Produce,5,No,0
+FC00214,Bengaluru,18-25,Female,5,1010.9,96,2.1,Beverages,0,Yes,1
+FC00215,Mumbai,36-45,Male,7,1151.7,120,1,Fresh Produce,3,No,1
+FC00216,Chennai,26-35,Female,7,460.6,82,2.2,Fresh Produce,2,No,1
+FC00217,Mumbai,26-35,Female,11,1638.7,42,3.9,Fresh Produce,13,Yes,0
+FC00218,Ahmedabad,36-45,Female,4,285.8,14,4.5,Fresh Produce,10,No,0
+FC00219,Delhi,36-45,Male,10,790.3,75,3,Dairy,4,No,1
+FC00220,Delhi,18-25,Male,11,546,25,3.9,Packaged,14,Yes,0
+FC00221,Hyderabad,46-60,Male,8,342.7,46,2.4,Dairy,0,No,1
+FC00222,Ahmedabad,60+,Male,6,373.6,70,2.6,Dairy,3,No,1
+FC00223,Delhi,36-45,Male,4,697.2,72,3,Fresh Produce,0,No,1
+FC00224,Hyderabad,18-25,Female,1,397.9,30,4.4,Dairy,22,Yes,0
+FC00225,Mumbai,36-45,Male,7,322.9,2,4,Packaged,5,No,0
+FC00226,Bengaluru,60+,Female,3,1735.9,19,3.4,Fresh Produce,19,Yes,0
+FC00227,Hyderabad,60+,Male,1,1793.4,118,2.2,Packaged,3,No,1
+FC00228,Kolkata,36-45,Female,3,1164.9,31,3.3,Fresh Produce,21,No,0
+FC00229,Delhi,36-45,Male,12,863.1,24,5,Packaged,18,No,0
+FC00230,Mumbai,36-45,Female,14,789.3,39,4.8,Packaged,12,Yes,0
+FC00231,Delhi,26-35,Female,6,1625.8,64,1.8,Beverages,4,No,1
+FC00232,Hyderabad,46-60,Female,7,1523,27,5,Beverages,7,Yes,0
+FC00233,Bengaluru,36-45,Male,6,1388.7,22,3.2,Dairy,19,No,0
+FC00234,Kolkata,36-45,Male,13,566.1,27,3.5,Packaged,7,No,0
+FC00235,Mumbai,36-45,Female,17,1483.9,5,3.5,Packaged,13,Yes,0
+FC00236,Kolkata,36-45,Male,1,245.6,72,2.8,Packaged,1,No,1
+FC00237,Mumbai,26-35,Male,13,236.7,22,3.7,Beverages,16,Yes,0
+FC00238,Chennai,46-60,Female,16,1763.7,23,3.5,Dairy,4,Yes,0
+FC00239,Kolkata,46-60,Female,12,1719.6,2,3.1,Dairy,16,Yes,0
+FC00240,Pune,26-35,Female,4,938.4,16,3.1,Fresh Produce,19,Yes,0
+FC00241,Hyderabad,46-60,Male,1,1300.4,44,4.9,Dairy,4,Yes,0
+FC00242,Bengaluru,26-35,Female,18,1252.8,120,2.5,Dairy,0,No,1
+FC00243,Pune,26-35,Male,11,894.2,5,4,Fresh Produce,10,Yes,0
+FC00244,Bengaluru,36-45,Female,13,289.3,89,2.3,Fresh Produce,5,No,1
+FC00245,Hyderabad,46-60,Female,6,439.9,39,3,Fresh Produce,22,Yes,0
+FC00246,Kolkata,26-35,Female,12,1223,106,1.6,Beverages,0,No,1
+FC00247,Bengaluru,18-25,Male,12,969.9,16,3.2,Beverages,8,Yes,0
+FC00248,Chennai,36-45,Male,12,1100.6,43,4.2,Beverages,9,Yes,0
+FC00249,Mumbai,26-35,Male,13,237.7,47,2.2,Packaged,0,Yes,1
+FC00250,Bengaluru,26-35,Female,8,1579.7,13,4,Fresh Produce,19,Yes,0
+FC00251,Mumbai,36-45,Female,3,450.9,111,2.9,Beverages,1,Yes,1
+FC00252,Bengaluru,60+,Female,14,1546.8,15,3.8,Fresh Produce,12,No,0
+FC00253,Mumbai,26-35,Male,12,837.4,15,4,Fresh Produce,8,No,0
+FC00254,Bengaluru,26-35,Female,8,1166.4,5,4.2,Packaged,17,Yes,0
+FC00255,Chennai,36-45,Female,2,803.8,105,2.8,Packaged,5,No,1
+FC00256,Delhi,36-45,Male,16,1028.1,38,4.8,Fresh Produce,21,No,0
+FC00257,Hyderabad,36-45,Male,16,1760.9,40,3.5,Fresh Produce,6,Yes,0
+FC00258,Delhi,26-35,Male,11,1653.4,23,3.4,Fresh Produce,13,Yes,0
+FC00259,Hyderabad,26-35,Female,7,1433.9,9,3.4,Packaged,13,No,0
+FC00260,Hyderabad,36-45,Male,17,494,19,3.4,Dairy,11,No,0
+FC00261,Kolkata,26-35,Female,8,838.8,37,4.1,Dairy,18,Yes,0
+FC00262,Chennai,26-35,Female,13,225.2,78,2,Packaged,3,No,1
+FC00263,Chennai,26-35,Female,2,1770.9,32,4,Fresh Produce,7,Yes,0
+FC00264,Mumbai,26-35,Male,2,284.8,59,2.2,Packaged,4,Yes,1
+FC00265,Mumbai,36-45,Male,2,235.6,81,1.9,Fresh Produce,2,Yes,1
+FC00266,Chennai,36-45,Male,8,459.7,21,3.3,Dairy,11,No,0
+FC00267,Bengaluru,36-45,Male,9,1499.1,16,3.4,Fresh Produce,17,Yes,0
+FC00268,Mumbai,26-35,Male,8,1280.4,39,3.9,Fresh Produce,16,Yes,0
+FC00269,Kolkata,26-35,Male,13,1563.9,2,4.5,Fresh Produce,21,Yes,0
+FC00270,Hyderabad,26-35,Female,1,1008.5,29,3.7,Fresh Produce,10,No,0
+FC00271,Chennai,36-45,Male,7,564.3,18,4.4,Packaged,11,No,0
+FC00272,Delhi,46-60,Female,8,1239.9,48,2.3,Packaged,3,No,1
+FC00273,Mumbai,26-35,Male,14,622.8,24,4,Dairy,12,Yes,0
+FC00274,Kolkata,36-45,Female,2,1767.1,75,2.6,Packaged,0,Yes,1
+FC00275,Chennai,36-45,Male,9,935.9,28,4.7,Dairy,12,Yes,0
+FC00276,Bengaluru,26-35,Male,2,1124.7,12,4.1,Beverages,13,No,0
+FC00277,Pune,26-35,Female,3,326.5,68,1.3,Fresh Produce,4,No,1
+FC00278,Hyderabad,36-45,Male,8,1463.3,11,4,Beverages,12,Yes,0
+FC00279,Bengaluru,18-25,Male,5,1557.5,93,2.7,Fresh Produce,4,No,1
+FC00280,Bengaluru,36-45,Female,2,326,46,2,Fresh Produce,2,No,1
+FC00281,Hyderabad,26-35,Female,17,957.3,34,4.6,Dairy,15,No,0
+FC00282,Kolkata,26-35,Male,6,1015,3,3.1,Beverages,10,No,0
+FC00283,Kolkata,18-25,Female,10,810.3,71,1.5,Dairy,0,No,1
+FC00284,Hyderabad,26-35,Female,5,1245.5,16,3,Packaged,8,Yes,0
+FC00285,Bengaluru,26-35,Male,7,952,4,4.9,Dairy,11,No,0
+FC00286,Pune,26-35,Male,13,1621.5,5,3.7,Dairy,13,Yes,0
+FC00287,Bengaluru,60+,Female,12,743.7,33,3,Dairy,9,Yes,0
+FC00288,Hyderabad,36-45,Male,17,806.6,22,3.7,Dairy,18,Yes,0
+FC00289,Delhi,46-60,Female,16,904.8,43,4.5,Beverages,21,No,0
+FC00290,Mumbai,60+,Female,15,1375.7,10,4.5,Dairy,8,Yes,0
+FC00291,Chennai,26-35,Male,1,1726.6,118,1.9,Fresh Produce,1,No,1
+FC00292,Mumbai,36-45,Male,1,1785.8,50,2.6,Beverages,2,No,1
+FC00293,Delhi,46-60,Male,4,346.4,89,2.6,Packaged,4,No,1
+FC00294,Bengaluru,60+,Female,11,1217.8,10,4,Dairy,22,Yes,0
+FC00295,Chennai,46-60,Male,16,650.1,20,4.9,Fresh Produce,19,No,0
+FC00296,Mumbai,36-45,Female,5,1096.9,15,3.9,Fresh Produce,11,Yes,0
+FC00297,Mumbai,36-45,Male,14,1115.2,16,4.2,Packaged,9,No,0
+FC00298,Hyderabad,46-60,Female,13,1507.8,106,1.7,Fresh Produce,0,No,1
+FC00299,Delhi,26-35,Female,13,1149.7,16,3.5,Beverages,13,No,0
+FC00300,Delhi,36-45,Female,4,349.7,1,4.1,Beverages,8,Yes,0
+FC00301,Mumbai,60+,Female,2,223.3,63,3.2,Packaged,2,No,1
+FC00302,Hyderabad,46-60,Male,2,481.1,58,3.2,Dairy,0,Yes,1
+FC00303,Mumbai,18-25,Female,13,1522.2,18,3.6,Packaged,22,No,0
+FC00304,Mumbai,36-45,Male,9,468.7,33,4,Dairy,7,Yes,0
+FC00305,Delhi,26-35,Male,16,1500.2,33,3.6,Fresh Produce,13,No,0
+FC00306,Bengaluru,46-60,Male,10,1272.7,30,4.4,Beverages,8,Yes,0
+FC00307,Mumbai,46-60,Male,5,455.9,88,1.7,Beverages,5,Yes,1
+FC00308,Bengaluru,26-35,Female,18,1372.4,14,4.3,Packaged,19,Yes,0
+FC00309,Bengaluru,26-35,Male,9,835.5,30,4.6,Packaged,16,No,0
+FC00310,Bengaluru,46-60,Female,11,1733.7,12,4.7,Packaged,4,Yes,0
+FC00311,Delhi,18-25,Female,2,1617.1,109,3,Fresh Produce,2,No,1
+FC00312,Bengaluru,46-60,Female,12,752.7,110,1.5,Packaged,1,No,1
+FC00313,Chennai,36-45,Male,17,1789.9,40,3.9,Dairy,10,No,0
+FC00314,Kolkata,26-35,Female,18,1794.9,19,3,Dairy,14,No,0
+FC00315,Ahmedabad,18-25,Female,15,1664.3,15,4.7,Dairy,14,Yes,0
+FC00316,Delhi,46-60,Female,9,843.8,75,1.5,Packaged,0,No,1
+FC00317,Delhi,18-25,Male,9,1065.7,27,4,Fresh Produce,4,No,0
+FC00318,Kolkata,36-45,Male,2,1004.7,35,3.6,Packaged,21,Yes,0
+FC00319,Delhi,60+,Female,18,1256.6,100,1.7,Fresh Produce,0,Yes,1
+FC00320,Bengaluru,18-25,Female,6,1258.8,27,4.8,Packaged,9,Yes,0
+FC00321,Mumbai,18-25,Female,18,1312.7,5,4.7,Fresh Produce,8,No,0
+FC00322,Mumbai,26-35,Female,9,1744.9,103,1.3,Packaged,2,No,1
+FC00323,Hyderabad,26-35,Male,9,1461.1,6,3.4,Packaged,15,No,0
+FC00324,Chennai,26-35,Male,3,1787.6,89,2.1,Beverages,1,No,1
+FC00325,Delhi,60+,Female,11,1568.5,28,4.6,Dairy,7,No,0
+FC00326,Bengaluru,26-35,Female,3,1762.3,43,4.1,Dairy,19,Yes,0
+FC00327,Delhi,26-35,Female,7,225.9,93,1.7,Fresh Produce,5,No,1
+FC00328,Mumbai,26-35,Male,4,1159.5,8,3.3,Fresh Produce,22,Yes,0
+FC00329,Ahmedabad,36-45,Male,2,1462.1,16,4.1,Packaged,13,Yes,0
+FC00330,Mumbai,18-25,Female,5,1319.5,10,3.7,Packaged,12,Yes,0
+FC00331,Mumbai,36-45,Male,10,862.9,82,1.4,Fresh Produce,2,Yes,1
+FC00332,Mumbai,36-45,Female,4,370.3,88,3,Fresh Produce,2,Yes,1
+FC00333,Delhi,46-60,Male,18,1412.6,6,4.9,Fresh Produce,21,No,0
+FC00334,Chennai,46-60,Female,13,1408.6,99,2.4,Fresh Produce,0,Yes,1
+FC00335,Mumbai,18-25,Female,4,1628.4,92,2.2,Dairy,3,Yes,1
+FC00336,Chennai,36-45,Female,6,512.5,7,3.9,Fresh Produce,4,No,0
+FC00337,Mumbai,36-45,Female,8,1783.6,112,2.3,Packaged,2,No,1
+FC00338,Kolkata,26-35,Male,13,524.1,23,3.8,Dairy,8,No,0
+FC00339,Pune,26-35,Male,4,1336.9,39,3,Beverages,19,Yes,0
+FC00340,Chennai,36-45,Female,4,1748.1,3,5,Dairy,11,No,0
+FC00341,Hyderabad,36-45,Male,4,1127.8,8,3.8,Fresh Produce,4,Yes,0
+FC00342,Bengaluru,18-25,Female,12,733.7,43,4.4,Fresh Produce,20,Yes,0
+FC00343,Delhi,36-45,Male,8,994.1,28,3.5,Dairy,5,Yes,0
+FC00344,Mumbai,46-60,Female,17,676.7,19,3.6,Packaged,8,Yes,0
+FC00345,Hyderabad,26-35,Female,15,769.6,29,4.4,Fresh Produce,10,Yes,0
+FC00346,Bengaluru,26-35,Male,5,247.1,108,1.5,Fresh Produce,3,No,1
+FC00347,Bengaluru,60+,Male,17,622.6,112,2.6,Packaged,2,Yes,1
+FC00348,Chennai,46-60,Male,8,1417.2,36,4.6,Fresh Produce,22,Yes,0
+FC00349,Delhi,26-35,Female,1,737.3,36,4.1,Fresh Produce,17,Yes,0
+FC00350,Delhi,18-25,Male,9,1319.7,71,1.9,Packaged,5,No,1
+FC00351,Chennai,36-45,Male,7,1626.6,22,3.9,Dairy,15,Yes,0
+FC00352,Delhi,26-35,Female,3,383,15,4.7,Fresh Produce,17,Yes,0
+FC00353,Bengaluru,60+,Male,18,917.2,73,1.8,Packaged,1,Yes,1
+FC00354,Mumbai,36-45,Male,15,1631.1,76,1.3,Fresh Produce,4,No,1
+FC00355,Kolkata,36-45,Female,2,972.1,67,2.7,Packaged,5,No,1
+FC00356,Pune,26-35,Female,11,378.1,15,3.6,Packaged,22,Yes,0
+FC00357,Delhi,26-35,Male,1,1387.5,37,4.3,Packaged,4,Yes,0
+FC00358,Kolkata,26-35,Male,7,532.3,53,2,Fresh Produce,5,No,1
+FC00359,Mumbai,36-45,Female,10,1538.9,5,3.9,Dairy,9,Yes,0
+FC00360,Delhi,36-45,Female,4,354,55,1.9,Beverages,1,No,1
+FC00361,Hyderabad,26-35,Female,17,1720.9,38,4.8,Packaged,14,Yes,0
+FC00362,Ahmedabad,36-45,Female,14,492,29,3.6,Beverages,12,No,0
+FC00363,Pune,46-60,Female,10,813.3,6,3.2,Fresh Produce,22,No,0
+FC00364,Pune,26-35,Female,4,1104.9,42,4.4,Beverages,22,No,0
+FC00365,Mumbai,26-35,Female,8,1654.6,39,4.8,Packaged,21,Yes,0
+FC00366,Chennai,26-35,Female,11,1087.3,3,4,Fresh Produce,17,No,0
+FC00367,Mumbai,46-60,Female,5,1207.2,115,2.6,Fresh Produce,0,No,1
+FC00368,Mumbai,26-35,Female,1,1452.5,2,3.2,Fresh Produce,4,Yes,0
+FC00369,Hyderabad,36-45,Male,16,1725.9,35,3.1,Packaged,15,No,0
+FC00370,Ahmedabad,18-25,Male,13,1282,33,4.5,Dairy,13,Yes,0
+FC00371,Mumbai,46-60,Female,16,673.8,5,3.4,Dairy,8,No,0
+FC00372,Bengaluru,46-60,Male,17,906.8,52,2.5,Dairy,0,No,1
+FC00373,Delhi,36-45,Male,9,1057.5,37,3.5,Packaged,7,Yes,0
+FC00374,Delhi,26-35,Male,12,710,119,2.6,Packaged,3,No,1
+FC00375,Mumbai,26-35,Male,18,946.8,2,3.4,Fresh Produce,20,Yes,0
+FC00376,Delhi,18-25,Male,17,416.3,34,3.5,Dairy,4,No,0
+FC00377,Ahmedabad,36-45,Female,8,1034.7,13,4.3,Dairy,20,Yes,0
+FC00378,Delhi,36-45,Male,10,1367.1,42,3.8,Dairy,13,Yes,0
+FC00379,Delhi,26-35,Female,17,900.8,78,2,Dairy,0,Yes,1
+FC00380,Bengaluru,60+,Female,12,1417.1,3,3.8,Fresh Produce,9,Yes,0
+FC00381,Hyderabad,26-35,Female,1,1276.5,20,4.6,Fresh Produce,17,No,0
+FC00382,Bengaluru,60+,Female,1,1439.8,24,4.1,Beverages,11,Yes,0
+FC00383,Mumbai,60+,Male,15,1184,44,3.1,Beverages,14,No,0
+FC00384,Mumbai,46-60,Male,7,1752.2,13,3.5,Beverages,20,Yes,0
+FC00385,Hyderabad,26-35,Male,4,362.3,30,3.9,Fresh Produce,20,No,0
+FC00386,Mumbai,18-25,Female,3,1216.8,73,1.9,Fresh Produce,1,No,1
+FC00387,Delhi,46-60,Female,3,1670.6,33,4.5,Packaged,19,Yes,0
+FC00388,Bengaluru,26-35,Male,18,1358.1,1,4.8,Dairy,4,Yes,0
+FC00389,Mumbai,46-60,Female,14,397,113,1.5,Fresh Produce,0,No,1
+FC00390,Bengaluru,36-45,Male,4,1737.4,1,3.8,Fresh Produce,10,No,0
+FC00391,Delhi,46-60,Male,4,1595.9,37,3.2,Packaged,13,Yes,0
+FC00392,Delhi,36-45,Male,5,1415.3,11,4.9,Fresh Produce,9,No,0
+FC00393,Bengaluru,18-25,Male,14,341.3,50,2.6,Fresh Produce,5,No,1
+FC00394,Mumbai,36-45,Female,12,1216.2,22,4,Fresh Produce,11,Yes,0
+FC00395,Bengaluru,46-60,Male,4,1399.2,2,4.9,Packaged,5,No,0
+FC00396,Mumbai,46-60,Male,3,1512.7,25,4.4,Dairy,8,Yes,0
+FC00397,Ahmedabad,26-35,Female,9,1638,28,4.1,Packaged,20,Yes,0
+FC00398,Mumbai,36-45,Male,5,1201.5,17,4.5,Packaged,13,Yes,0
+FC00399,Delhi,46-60,Male,15,1452.8,16,4.7,Dairy,19,No,0
+FC00400,Hyderabad,36-45,Male,12,1190.9,59,1.8,Fresh Produce,5,No,1
+FC00401,Mumbai,46-60,Male,3,1489.2,69,2.6,Beverages,0,No,1
+FC00402,Delhi,46-60,Male,14,1431.3,25,4.7,Dairy,13,No,0
+FC00403,Hyderabad,36-45,Female,15,361.7,10,4.6,Packaged,21,No,0
+FC00404,Chennai,36-45,Male,10,253.6,20,4.2,Dairy,22,No,0
+FC00405,Delhi,26-35,Male,8,685.2,101,2.2,Fresh Produce,3,No,1
+FC00406,Mumbai,36-45,Male,5,848.8,99,2.4,Dairy,0,Yes,1
+FC00407,Delhi,36-45,Female,8,734.7,24,4.8,Fresh Produce,11,Yes,0
+FC00408,Chennai,36-45,Male,10,1528.3,27,5,Packaged,7,No,0
+FC00409,Chennai,26-35,Male,5,861.8,35,3.9,Packaged,8,Yes,0
+FC00410,Kolkata,26-35,Male,3,1679.1,117,2.8,Dairy,3,Yes,1
+FC00411,Kolkata,46-60,Female,11,1123,8,4.7,Packaged,12,No,0
+FC00412,Bengaluru,18-25,Female,17,649.6,2,4,Packaged,9,Yes,0
+FC00413,Mumbai,46-60,Male,13,318.9,95,1.4,Dairy,4,Yes,1
+FC00414,Delhi,36-45,Female,1,295.7,113,2.3,Packaged,0,Yes,1
+FC00415,Delhi,36-45,Female,15,864.3,112,2.9,Fresh Produce,1,No,1
+FC00416,Chennai,36-45,Male,9,646.8,29,4.2,Dairy,18,Yes,0
+FC00417,Mumbai,60+,Female,14,1280.8,23,4.1,Packaged,4,Yes,0
+FC00418,Pune,36-45,Female,2,1771.5,39,4.5,Beverages,6,Yes,0
+FC00419,Bengaluru,36-45,Female,7,533.5,6,4.9,Fresh Produce,8,Yes,0
+FC00420,Hyderabad,26-35,Male,4,958.2,30,3.4,Beverages,4,No,0
+FC00421,Pune,36-45,Male,13,397.9,16,5,Fresh Produce,20,Yes,0
+FC00422,Bengaluru,36-45,Female,7,564.8,115,1.7,Dairy,2,No,1
+FC00423,Hyderabad,26-35,Female,13,684.5,58,1.6,Fresh Produce,3,No,1
+FC00424,Delhi,26-35,Male,16,1064,30,4.3,Fresh Produce,19,Yes,0
+FC00425,Delhi,18-25,Male,16,1632.9,12,4.3,Fresh Produce,7,Yes,0
+FC00426,Pune,26-35,Female,16,1459.3,29,4.5,Fresh Produce,11,No,0
+FC00427,Delhi,46-60,Male,17,500,21,3.1,Fresh Produce,17,Yes,0
+FC00428,Hyderabad,60+,Male,18,1356.3,44,3.9,Packaged,7,No,0
+FC00429,Bengaluru,60+,Male,5,1579,46,2.2,Dairy,3,Yes,1
+FC00430,Kolkata,26-35,Female,6,356.2,92,2.7,Fresh Produce,0,No,1
+FC00431,Bengaluru,18-25,Male,3,1046.1,12,5,Dairy,6,Yes,0
+FC00432,Chennai,60+,Female,18,1153.2,18,3.9,Beverages,11,No,0
+FC00433,Delhi,36-45,Male,2,1564.4,39,4.3,Fresh Produce,11,Yes,0
+FC00434,Ahmedabad,36-45,Female,10,1244.4,39,4.7,Dairy,14,No,0
+FC00435,Chennai,18-25,Male,18,1021.9,3,3.2,Fresh Produce,18,No,0
+FC00436,Delhi,36-45,Male,18,1435.2,2,3.5,Dairy,18,No,0
+FC00437,Ahmedabad,18-25,Female,16,1184.5,35,4.7,Beverages,8,No,0
+FC00438,Bengaluru,26-35,Female,5,725.8,32,4.6,Packaged,5,Yes,0
+FC00439,Hyderabad,18-25,Female,8,802.5,2,4.5,Packaged,15,Yes,0
+FC00440,Hyderabad,26-35,Male,4,485.3,12,4.7,Fresh Produce,14,Yes,0
+FC00441,Delhi,36-45,Male,5,777.8,19,4.3,Dairy,9,No,0
+FC00442,Mumbai,36-45,Female,13,1531.9,13,4.9,Fresh Produce,21,No,0
+FC00443,Pune,26-35,Male,11,514.8,31,4.8,Fresh Produce,9,Yes,0
+FC00444,Mumbai,36-45,Male,8,762.5,44,3.2,Dairy,15,No,0
+FC00445,Pune,18-25,Female,1,1723.6,17,4.9,Dairy,16,No,0
+FC00446,Mumbai,26-35,Male,9,574.2,61,3,Packaged,5,No,1
+FC00447,Mumbai,46-60,Female,6,294.1,22,3.5,Dairy,22,No,0
+FC00448,Mumbai,26-35,Male,10,936.8,21,3.2,Fresh Produce,10,No,0
+FC00449,Delhi,46-60,Female,17,373.9,29,3.1,Dairy,14,No,0
+FC00450,Delhi,46-60,Female,4,667.9,6,4.6,Packaged,5,Yes,0
+FC00451,Bengaluru,36-45,Female,17,967.2,62,1,Packaged,3,No,1
+FC00452,Delhi,36-45,Female,13,477.2,88,2.8,Packaged,4,No,1
+FC00453,Bengaluru,18-25,Male,17,876.5,35,3.6,Packaged,18,No,0
+FC00454,Mumbai,36-45,Male,9,1075.3,38,4.9,Beverages,17,No,0
+FC00455,Delhi,36-45,Female,5,701.2,8,4.6,Fresh Produce,6,Yes,0
+FC00456,Delhi,18-25,Female,2,466.4,75,2.4,Beverages,4,Yes,1
+FC00457,Ahmedabad,18-25,Female,4,1482.9,5,3,Beverages,10,Yes,0
+FC00458,Mumbai,26-35,Female,6,1297.6,19,4,Dairy,20,Yes,0
+FC00459,Chennai,60+,Male,8,888.5,29,4.3,Dairy,13,Yes,0
+FC00460,Mumbai,26-35,Male,6,1672.4,5,3.4,Packaged,20,No,0
+FC00461,Hyderabad,46-60,Male,3,419.5,42,4.3,Fresh Produce,4,No,0
+FC00462,Mumbai,36-45,Female,14,634.6,36,3.7,Dairy,18,Yes,0
+FC00463,Hyderabad,26-35,Female,6,1463.3,31,3.6,Packaged,18,No,0
+FC00464,Delhi,36-45,Male,2,734.2,33,3.8,Dairy,18,No,0
+FC00465,Delhi,18-25,Male,15,1737.4,12,3.9,Beverages,6,Yes,0
+FC00466,Bengaluru,36-45,Male,6,1731.6,21,3.3,Dairy,9,No,0
+FC00467,Chennai,36-45,Female,4,1377.8,43,3.2,Beverages,22,Yes,0
+FC00468,Chennai,18-25,Female,12,1329.9,119,1.4,Fresh Produce,4,No,1
+FC00469,Delhi,26-35,Male,16,565.8,19,4.9,Packaged,11,No,0
+FC00470,Delhi,26-35,Female,4,505.1,38,3,Packaged,18,No,0
+FC00471,Bengaluru,26-35,Male,15,1420.4,8,4,Packaged,10,No,0
+FC00472,Delhi,36-45,Female,8,426.5,58,2.7,Beverages,1,No,1
+FC00473,Kolkata,46-60,Female,2,639.2,105,2.1,Fresh Produce,4,No,1
+FC00474,Bengaluru,36-45,Female,12,1274.4,16,3.8,Packaged,21,Yes,0
+FC00475,Kolkata,46-60,Female,7,247.4,16,4.3,Packaged,16,No,0
+FC00476,Kolkata,36-45,Male,6,1727.5,37,3,Fresh Produce,6,Yes,0
+FC00477,Chennai,46-60,Female,12,1269.1,71,1.6,Dairy,3,No,1
+FC00478,Bengaluru,18-25,Female,14,1787.6,109,2.3,Beverages,0,Yes,1
+FC00479,Bengaluru,36-45,Female,6,406.6,30,3.9,Fresh Produce,17,No,0
+FC00480,Mumbai,36-45,Female,4,824.5,69,1.3,Fresh Produce,0,No,1
+FC00481,Bengaluru,36-45,Female,15,1693.2,40,3.1,Beverages,10,No,0
+FC00482,Bengaluru,26-35,Female,15,1248,20,3.2,Packaged,20,No,0
+FC00483,Delhi,18-25,Male,13,1208.1,89,2.3,Packaged,0,No,1
+FC00484,Mumbai,36-45,Male,7,1327,23,4.7,Fresh Produce,16,Yes,0
+FC00485,Hyderabad,36-45,Female,12,422.6,32,4.6,Fresh Produce,4,Yes,0
+FC00486,Bengaluru,18-25,Male,18,736.1,20,3.4,Beverages,8,Yes,0
+FC00487,Ahmedabad,46-60,Female,16,1689.7,24,4,Fresh Produce,9,No,0
+FC00488,Delhi,26-35,Female,3,901.3,2,3.5,Dairy,17,Yes,0
+FC00489,Delhi,36-45,Female,9,1725.6,46,2.5,Fresh Produce,1,No,1
+FC00490,Mumbai,18-25,Male,13,1731.4,41,3.7,Dairy,18,No,0
+FC00491,Delhi,18-25,Male,12,807.7,12,3.5,Packaged,11,No,0
+FC00492,Mumbai,46-60,Male,2,1096.8,33,3.1,Fresh Produce,7,Yes,0
+FC00493,Pune,46-60,Female,13,656.3,32,3.8,Fresh Produce,9,Yes,0
+FC00494,Mumbai,18-25,Female,4,454,59,2.5,Dairy,2,No,1
+FC00495,Delhi,18-25,Male,15,1345.9,52,1.8,Fresh Produce,2,No,1
+FC00496,Delhi,26-35,Female,7,259.2,12,4.1,Fresh Produce,15,Yes,0
+FC00497,Delhi,26-35,Male,1,543.2,88,3.2,Fresh Produce,1,No,1
+FC00498,Hyderabad,36-45,Male,15,1676.7,26,4.6,Packaged,17,Yes,0
+FC00499,Chennai,36-45,Female,16,250,80,1.9,Packaged,3,Yes,1
+FC00500,Ahmedabad,36-45,Male,4,299.9,43,3.2,Fresh Produce,18,Yes,0
